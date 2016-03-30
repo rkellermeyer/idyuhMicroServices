@@ -1,0 +1,1 @@
+rails g model ProjectEntity title:string description_id:integer teaser_id:integer creator_id:integer:index active:boolean:index fully_funded:boolean:index status_id:integer:index category_id:integer:index profile_id:integer
